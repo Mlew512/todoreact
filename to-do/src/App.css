@@ -1,0 +1,15 @@
+.strike{
+  text-decoration: line-through;
+}
+list {
+  display: flex;
+  text-align: left;
+
+}
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: left;
+
+}
